@@ -1,5 +1,10 @@
 #include <iostream>
 
+//potrevno za windows.h
+#define WIN32_WINNt 0x0500
+#define WINVER 0x0500
+#include <windows.h>
+
 //200 MB bo ostalo prostega RAM-a
 #define PROST_SPOMIN 209715200
 
