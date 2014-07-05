@@ -11,6 +11,7 @@ using namespace std;
   Nato naredi char array, ki je velik (največ kolikor je mogoče) - PROST_SPOMIN.
   
 */
+//link: http://msdn.microsoft.com/en-us/library/windows/desktop/aa366589(v=vs.85).aspx
 void alokacijaRAM()
 {
 
