@@ -89,6 +89,8 @@ void binarnoPisanje()
 
 /*
   Sprehajanje se po trenutnem direktoriju (pot) in vseh poddirektorijih
+  
+  Link: http://stackoverflow.com/a/12240511/2148796
 */
 void sprehod(string pot)
 {
