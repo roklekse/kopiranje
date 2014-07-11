@@ -9,7 +9,7 @@
 
 using namespace std;
 
-//arrays bytov, uporabljen za kopiranje
+//array bytov, uporabljen za kopiranje
 char *c;
 //dolzina c
 long long writingSize;
